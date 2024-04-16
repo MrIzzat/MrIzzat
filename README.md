@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Izzat Almustafa</h1>
-<h3 align="center">I'm a junior computer scientist trying to master AI and CyberSecurity</h3>
+<h3 align="center">I'm a junior Computer Scientist trying to master AI and CyberSecurity!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrizzat&label=Profile%20views&color=0e75b6&style=flat" alt="mrizzat" /> </p>
 
