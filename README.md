@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrizzat&label=Profile%20views&color=0e75b6&style=flat" alt="mrizzat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrizzat" alt="mrizzat" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy-dark"><img src="https://github-profile-trophy.vercel.app/?username=mrizzat" alt="mrizzat" /></a> </p>
 
 - 🌱 I’m currently learning **Advanced TensorFlow**
 
