@@ -37,7 +37,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrizzat&theme=dracula" alt="mrizzat" />
 </div>
 
-<p align="center">*excluded python notebooks as languages since the percentage is inaccurate*</p>
+<p align="center" > <em> excluded python notebooks as languages since the percentage is inaccurate </em></p>
 
 
 
