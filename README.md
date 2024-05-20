@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced TensorFlow, Data Analysis**
 
-- 🛠️ Currently Working on **Practical CyberSecurity, Advanced Video Steganography**
+- 🛠️ Currently Working with **Practical CyberSecurity, Advanced Video Steganography**
 
 - 💬 Ask me about **Steganography, Deep Learning, Computer Vision, CyberSecurity, Unity**
 
