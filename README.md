@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrizzat&label=Profile%20views&color=0e75b6&style=flat" alt="mrizzat" /> </p>
 
-- 🌱 I’m currently learning **Advanced TensorFlow, Data Analysis**
+- 🌱 I’m currently learning **Advanced TensorFlow, Front End Development**
 
 - 🛠️ Currently Working with **Practical CyberSecurity, Advanced Video Steganography**
 
