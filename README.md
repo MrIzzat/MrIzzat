@@ -7,7 +7,7 @@
 
 - 🛠️ Currently Working with **Practical Backend Systems, Advanced Video Steganography**
 
-- 💬 Ask me about **Steganography, Deep Learning, Computer Vision, CyberSecurity, Unity**
+- 💬 Ask me about **Steganography, Deep Learning, Computer Vision, CyberSecurity, Unity, Software Structure, Backend Systems**
 
 - 📫 How to reach me **izzat.ibraheem1493@gmail.com**
 
