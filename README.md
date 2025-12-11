@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrizzat&label=Profile%20views&color=0e75b6&style=flat" alt="mrizzat" /> </p>
 
-- 🌱 I’m currently learning **Advanced TensorFlow, Front End Development**
+- 🌱 I’m currently learning **Advanced Asp.Net Core, Software Architecture**
 
-- 🛠️ Currently Working with **Practical CyberSecurity, Advanced Video Steganography**
+- 🛠️ Currently Working with **Practical Backend Systems, Advanced Video Steganography**
 
 - 💬 Ask me about **Steganography, Deep Learning, Computer Vision, CyberSecurity, Unity**
 
-- 📫 How to reach me **guineapigsarecute3748@gmail.com**
+- 📫 How to reach me **izzat.ibraheem1493@gmail.com**
 
 - ⚡ Fun fact **I love to learn!**
 
